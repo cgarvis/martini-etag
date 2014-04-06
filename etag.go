@@ -2,7 +2,7 @@ package etag
 
 import "crypto/md5"
 import "fmt"
-import "github.com/codegangsta/martini"
+import "github.com/go-martini/martini"
 import "io"
 import "net/http"
 
